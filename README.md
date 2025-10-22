@@ -8,5 +8,10 @@
 <img src="https://github.com/user-attachments/assets/dd56826f-b265-44ed-b2cb-0401981bb8a1" title="C++" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/user-attachments/assets/922442e5-a859-4e7a-9528-0beb112cff50" title="C++" width="40" height="40"/>&nbsp; 
 
+#### 🌐 'My contacts'
+<a href="https://vk.com/xeswent"><img src="https://github.com/user-attachments/assets/325d16d0-f712-4c04-ad65-70624ea994d1" width="40" height="40" alt="VK" /></a>
+<a href="https://t.me/xeswent"><img src= "https://github.com/user-attachments/assets/7904c34a-0fdd-4e13-83b3-ba52a5aeea8a" width="40" height="40" alt="Telegram" /></a>
+
+
 
 
