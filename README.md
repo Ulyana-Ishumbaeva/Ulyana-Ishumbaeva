@@ -5,7 +5,10 @@
 #### 💻 Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/user-attachments/assets/dd56826f-b265-44ed-b2cb-0401981bb8a1" title="C++" width="40" height="40"/>&nbsp; 
-<img src="https://web-creator.ru/technologies/javascript.png" title="JavaScript" width="40" height="45"/>&nbsp; 
+<img src="https://web-creator.ru/technologies/javascript.png" title="JavaScript" width="40" height="40"/>&nbsp; 
+#### 🎨 Design & Graphics
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLByr5oMJbeROvPhUgh_TpfRT1v3Zi9RuYjGcVMLmlPA&s=10" title="Figma" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTvzXmaizts7hLUcQKnvokIhY-NL5PJC0tuV9AVKrKg&s" title="Figma" width="40" height="40"/>&nbsp;
 
 #### ⚙️ Backend & FastAPI
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnOvkDLfyhGuGYxT97TRIE0Pt1-FlX_vFNuz41whSTQ&s=10" title="FastAPI" width="40" height="40"/>&nbsp; 
