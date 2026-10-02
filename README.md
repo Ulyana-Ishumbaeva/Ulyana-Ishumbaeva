@@ -1,5 +1,5 @@
 ## Hi there, my name is Ulyana)))
-<span  alight="start"> I am 18 years old, live in Irkutsk and stydying at ISY on the 1 course. In my future going to be an IT specialist.</span>
+<span  alight="start"> I am 19 years old, live in Irkutsk and stydying at ISY on the 2 course. In my future going to be an IT specialist.</span>
 ### Technology stack:
 
 #### 📈 `Machine Learning & Data Science`
