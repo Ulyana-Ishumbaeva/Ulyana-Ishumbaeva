@@ -2,11 +2,12 @@
 <span  alight="start"> I am 19 years old, live in Irkutsk and stydying at ISY on the 2 course. In my future going to be an IT specialist.</span>
 ### Technology stack:
 
-#### 📈 `Machine Learning & Data Science`
+#### 💻 Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/user-attachments/assets/17094877-f42d-4506-acc8-5a4c946c1ab6" title="HTML" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/user-attachments/assets/dd56826f-b265-44ed-b2cb-0401981bb8a1" title="C++" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/user-attachments/assets/922442e5-a859-4e7a-9528-0beb112cff50" title="C++" width="40" height="40"/>&nbsp; 
+<img src="https://coursehunter.net/category/javascript" title="JavaScript" width="40" height="40"/>&nbsp; 
+
+#### ⚙️ Backend & FastAPI
 
 #### 🌐 'My contacts'
 <a href="https://vk.com/xeswent"><img src="https://github.com/user-attachments/assets/325d16d0-f712-4c04-ad65-70624ea994d1" width="40" height="40" alt="VK" /></a>
